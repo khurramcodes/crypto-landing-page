@@ -12,8 +12,8 @@
 
 ## :clipboard: Learning Outcomes 
 
-    - Use of background image with overlay
-    - Use of pseudo-classes and psuedo-elements together
+- Use of background image with overlay
+- Use of pseudo-classes and psuedo-elements together
 
 ## :camera: Screenshot
 
