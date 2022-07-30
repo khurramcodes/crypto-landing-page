@@ -14,6 +14,7 @@
 
 - Use of background image with overlay
 - Use of pseudo-classes and psuedo-elements together
+- Use of `transform` property and its `rotate()` value
 
 ## :camera: Screenshot
 
